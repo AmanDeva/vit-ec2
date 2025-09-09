@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+transformers
+huggingface-hub
+torchvision
+pillow
+python-multipart
